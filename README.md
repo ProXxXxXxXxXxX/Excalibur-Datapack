@@ -27,7 +27,7 @@ The texture for the Excalibur sword displays a strange red glitch when looking a
 
 
 ## Usage
-Once installed, you can craft Excalibur using the crafting recipe provided above. <br> You can also obtain the sword by using the command "/function excalibur:excalibur"
+Once installed, you can craft Excalibur using the crafting recipe provided above. <br> You can also obtain the sword by using the command "/function excalibur:excalibur".
 
 ## Compatibility
 This datapack has been written and tested for minecraft 1.21.7. Compatibility with older versions is untested but theoretically should work back until 1.21.4. 

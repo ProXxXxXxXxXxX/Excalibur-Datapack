@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sis",
+    "ada",
+    "sgs"
+  ],
+  "key": {
+    "i": [
+      "minecraft:dragon_egg"
+    ],
+    "s": [
+      "minecraft:diamond"
+    ],
+    "a": [
+      "minecraft:netherite_ingot"
+    ],
+    "d": [
+      "minecraft:diamond_sword"
+    ],
+    "g": [
+      "minecraft:nether_star"
+    ]
+  },
+  "result": {
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "minecraft:item_model": "excalibur:custom_sword",
+      "minecraft:item_name": {"bold":true,"color":"gold","text":"EXCALIBER"},
+      "minecraft:rarity": "epic",
+      "minecraft:weapon": {
+        "item_damage_per_attack": 0,
+        "disable_blocking_for_seconds": 2
+      },
+      "minecraft:attribute_modifiers": [
+        {
+          "type": "minecraft:attack_knockback",
+          "id": "minecraft:",
+          "amount": 3,
+          "operation": "add_value"
+        },
+        {
+          "type": "minecraft:attack_damage",
+          "id": "minecraft:",
+          "amount": 20,
+          "operation": "add_value"
+        }
+      ]
+    }
+  }
+}

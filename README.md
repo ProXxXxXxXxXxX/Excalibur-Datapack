@@ -17,8 +17,9 @@ This Minecraft datapack introduces a new, overpowered sword that can only be cra
 3. Open the `datapacks` folder.
 4. Drag and drop the downloaded datapack file into the `datapacks` folder.
 5. Run the command `/reload` in your Minecraft world to load the datapack.
-6. If the datapack loaded correctly you will get a message that says "Excalibur datapack loaded correctly!"
-7. Unzip the resource pack, and drag and drop it into the minecraft resource packs menu. 
+6. you may have to unzip the datapack folder to get it to work correctly. 
+7. If the datapack loaded correctly you will get a message that says "Excalibur datapack loaded correctly!"
+8. Unzip the resource pack, and drag and drop it into the minecraft resource packs menu. 
 
 ## Usage
 Once installed, you can craft Excalibur using the crafting recipe provided above. Enjoy playing with your new powerful weapon!

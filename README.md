@@ -20,10 +20,14 @@ This Minecraft datapack introduces a new, overpowered sword that can only be cra
 6. You may have to unzip the datapack folder to get it to work correctly. 
 7. If the datapack loaded correctly you will get a message that says "Excalibur datapack loaded correctly!"
 8. Unzip the resource pack, and drag and drop it into the minecraft resource packs menu.
-   NOTE: While the resource pack is not technically needed, without it minecraft will not find a texture for the Excalibur sword and so it will just display a purple and black block. 
+   NOTE: While the resource pack is not technically needed, without it minecraft will not find a texture for the Excalibur sword and so it will just display a purple and black block.
+
+## Known Issues
+The texture for the Excalibur sword displays a strange red glitch when looking at it from certain angles. <img width="692" height="676" alt="image" src="https://github.com/user-attachments/assets/1cacf127-04c0-4f7b-bf40-f3c5d94885ec" />
+
 
 ## Usage
-Once installed, you can craft Excalibur using the crafting recipe provided above. Enjoy playing with your new powerful weapon!
+Once installed, you can craft Excalibur using the crafting recipe provided above. Enjoy playing with your new powerful weapon!<br> You can also obtain the sword by using the command "/function excalibur:excalibur"
 
 ## Compatibility
 This datapack has been written and tested for minecraft 1.21.7. Compatibility with older versions is untested but theoretically should work back until 1.21.4. 

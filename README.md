@@ -9,6 +9,6 @@ This Minecraft datapack introduces a new, overpowered sword that can only be cra
 - **Custom Attributes**: The sword comes with enhanced attributes, making it a formidable weapon against mobs and players alike.
 
 ## Crafting Recipe
-! [Crafting recipe for sword] (image_2025-07-10_163035267.png)
+![Crafting recipe for sword] (image_2025-07-10_163035267.png)
 
 ### Crafting Grid

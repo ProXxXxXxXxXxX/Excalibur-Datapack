@@ -12,7 +12,7 @@ This Minecraft datapack introduces a new, overpowered sword that can only be cra
 ![Crafting recipe for sword](image_2025-07-10_163035267.png)
 
 ## Installation
-1. Download the datapack from the [Excalibur 1.0](Excalibur 1.0.zip) section.
+1. Download the datapack from the [Excalibur 1.0]([Excalibur 1.0.zip](https://github.com/ProXxXxXxXxXxX/Excalibur-Datapack/releases/tag/1.0)) section.
 2. Navigate to your Minecraft world save folder.
 3. Open the `datapacks` folder.
 4. Drag and drop the downloaded datapack file into the `datapacks` folder.
